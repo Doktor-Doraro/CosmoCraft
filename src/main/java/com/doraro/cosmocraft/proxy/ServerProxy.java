@@ -1,5 +1,5 @@
 package com.doraro.cosmocraft.proxy;
 
-public class ServerProxy {
+public class ServerProxy extends CommonProxy {
 
 }

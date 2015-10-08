@@ -1,15 +1,24 @@
 package com.doraro.cosmocraft;
 
+import com.doraro.cosmocraft.Referance.Referance;
+import com.doraro.cosmocraft.proxy.IProxy;
 import com.sun.tracing.dtrace.ModuleAttributes;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid="CosmoCraft-core", name="CosmoCraft", version="1.8-0.0.1")
+@Mod(modid=Referance.Mod_ID, name=Referance.Mod_Name, version=Referance.Mod_Ver)
 public class CosmoCraft {
 	
-	@Mod.Instance("CosmoCraft")
+	@Mod.Instance(Referance.Mod_ID)
 	public static CosmoCraft instance;
+	
+	//Proxy
+	@SidedProxy(clientSide = Referance.ClientProxy, serverSide = Referance.ServerProxy)
+	public static IProxy proxy;
+	
+	
 	
 	//handle for Pre-Initialization phase
 	@Mod.EventHandler
