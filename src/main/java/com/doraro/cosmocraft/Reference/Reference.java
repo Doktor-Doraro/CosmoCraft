@@ -1,10 +1,11 @@
-package com.doraro.cosmocraft.Referance;
+package com.doraro.cosmocraft.Reference;
 
-public class Referance {
+public class Reference {
 
 	public static final String Mod_Name = "CosmoCraft";
 	public static final String Mod_ID = "CosmoCraft-core";
-	public static final String Mod_Ver = "1.8-0.001";
+	public static final String Mod_Ver = "1.7.10-0.0.1";
 	public static final String ClientProxy = "com.doraro.cosmocraft.proxy.ClientProxy";
 	public static final String ServerProxy = "com.doraro.cosmocraft.proxy.ServerProxy";
+	public static final String GUI_Factory_Class =  "com.doraro.cosmocraft.client.gui.GuiFactory";
 }
