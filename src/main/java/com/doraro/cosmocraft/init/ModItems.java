@@ -4,8 +4,8 @@ import com.doraro.cosmocraft.items.ItemCosmoCraft;
 import com.doraro.cosmocraft.items.ItemNames;
 import com.doraro.cosmocraft.items.ItemWrench;
 
+import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.Item;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class ModItems {
 	

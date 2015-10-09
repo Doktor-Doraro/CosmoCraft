@@ -7,14 +7,14 @@ import com.doraro.cosmocraft.handlers.ConfigurationHandler;
 import com.doraro.cosmocraft.init.ModItems;
 import com.doraro.cosmocraft.proxy.IProxy;
 
-import net.minecraftforge.fml.common.FMLCommonHandler;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.FMLCommonHandler;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import sun.rmi.log.LogHandler;
 
-@Mod(modid=Reference.Mod_ID, name=Reference.Mod_Name, version=Reference.Mod_Ver, guiFactory = Reference.GUI_Factory_Class)
+@cpw.mods.fml.common.Mod(modid=Reference.Mod_ID, name=Reference.Mod_Name, version=Reference.Mod_Ver, guiFactory = Reference.GUI_Factory_Class)
 public class CosmoCraft {
 	
 	@Mod.Instance(Reference.Mod_ID)

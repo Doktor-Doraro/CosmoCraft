@@ -4,7 +4,7 @@ import org.apache.logging.log4j.Level;
 
 import com.doraro.cosmocraft.Reference.Reference;
 
-import net.minecraftforge.fml.common.FMLLog;
+import cpw.mods.fml.common.FMLLog;
 
 public class LogHelper {
 	//thanks to pahimar for the code

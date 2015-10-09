@@ -2,11 +2,7 @@ package com.doraro.cosmocraft.items;
 
 import com.doraro.cosmocraft.Reference.Reference;
 import net.minecraft.item.Item;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraftforge.fml.relauncher.Side;
-import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minecraft.client.renderer.texture.IIconCreator;
 
 public class ItemCosmoCraft extends Item{
 	//thank you to pahimar for simplified item system

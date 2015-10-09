@@ -1,0 +1,17 @@
+[
+    {
+    "modid": "CosmoCraft-core",
+    "name": "CosmoCraft",
+    "description": "A future tech mod",
+    "version": "0.0.1",
+    "credits": "Thanks to Pahimar for making youtube series!!!",
+    "logoFile": "",
+    "mcversion": "1.7.10",
+    "url": "TBA",
+    "updateUrl": "",
+    "authors": "DoktorDoraro",
+    "parent":"",
+    "screenshots": [],
+    "dependencies": ["mod_MinecraftForge"]
+}
+]

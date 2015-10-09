@@ -2,10 +2,11 @@ package com.doraro.cosmocraft.client.gui;
 
 import com.doraro.cosmocraft.Reference.Reference;
 import com.doraro.cosmocraft.handlers.ConfigurationHandler;
+
+import cpw.mods.fml.client.config.GuiConfig;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
-import net.minecraftforge.fml.client.config.GuiConfig;
 
 public class ModGuiConfig extends GuiConfig{
 	public ModGuiConfig(GuiScreen guiScreen){

@@ -6,9 +6,9 @@ import com.doraro.cosmocraft.Reference.Reference;
 import com.doraro.cosmocraft.Reference.worldGeneration;
 import com.doraro.cosmocraft.Utility.LogHelper;
 
+import cpw.mods.fml.client.event.ConfigChangedEvent;
+import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.common.config.Configuration;
-import net.minecraftforge.fml.client.event.ConfigChangedEvent;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
 public class ConfigurationHandler {
 	public static Configuration configuration;
