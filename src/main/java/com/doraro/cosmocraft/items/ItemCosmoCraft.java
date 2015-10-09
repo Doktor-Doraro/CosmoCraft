@@ -26,12 +26,12 @@ public class ItemCosmoCraft extends Item{
         return String.format("item.%s%s", Reference.Mod_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
     }
 
-    @Override
+/*    @Override
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconCreator iconRegister)
     {
         itemIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
-    }
+    }*/
 
     protected String getUnwrappedUnlocalizedName(String unlocalizedName)
     {
