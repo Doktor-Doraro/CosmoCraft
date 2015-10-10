@@ -1,11 +1,80 @@
-[09:56:21] [main/INFO]: Setting user: Player849
-[09:56:30] [Client thread/INFO]: LWJGL Version: 2.9.1
-[09:56:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CosmoCraft
-[09:56:50] [Sound Library Loader/INFO]: Sound engine started
-[09:56:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:57:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:57:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CosmoCraft
-[09:57:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:57:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:57:11] [Sound Library Loader/INFO]: Sound engine started
-[09:57:44] [Client thread/INFO]: Stopping!
+[16:17:23] [main/INFO]: Setting user: Player534
+[16:17:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:17:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CosmoCraft
+[16:17:43] [Sound Library Loader/INFO]: Sound engine started
+[16:17:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:17:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:17:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CosmoCraft
+[16:17:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:18:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:18:02] [Sound Library Loader/INFO]: Sound engine started
+[16:19:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:19:44] [Server thread/INFO]: Generating keypair
+[16:19:45] [Server thread/INFO]: Preparing start region for level 0
+[16:19:46] [Server thread/INFO]: Preparing spawn area: 69%
+[16:19:46] [Server thread/INFO]: Changing view distance to 2, from 10
+[16:19:48] [Server thread/INFO]: Player534[local:E:9fdc5bb2] logged in with entity id 130 at (1533.7828656208635, 4.0, 339.0763039282459)
+[16:19:48] [Server thread/INFO]: Player534 joined the game
+[16:20:06] [Server thread/INFO]: [Player534: Set the time to 0]
+[16:20:06] [Client thread/INFO]: [CHAT] Set the time to 0
+[16:20:16] [Server thread/INFO]: Saving and pausing game...
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:20:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:20:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:21:25] [Client thread/INFO]: [CHAT] CosmoCraft:copper_ore, CosmoCraft:copper_ingot, CosmoCraft:lead_ingot, CosmoCraft:lead_ore, CosmoCraft:wrench, CosmoCraft:furnace
+[16:21:28] [Server thread/INFO]: [Player534: Given [tile.cosmocraft:copper_ore.name] * 1 to Player534]
+[16:21:28] [Client thread/INFO]: [CHAT] Given [tile.cosmocraft:copper_ore.name] * 1 to Player534
+[16:21:43] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[16:21:45] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[16:21:47] [Server thread/INFO]: [Player534: Set own game mode to Creative Mode]
+[16:21:47] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[16:21:58] [Server thread/INFO]: [Player534: Given [tile.cosmocraft:copper_ore.name] * 64 to Player534]
+[16:21:58] [Client thread/INFO]: [CHAT] Given [tile.cosmocraft:copper_ore.name] * 64 to Player534
+[16:22:03] [Server thread/INFO]: Player534 has just earned the achievement [Taking Inventory]
+[16:22:03] [Client thread/INFO]: [CHAT] Player534 has just earned the achievement [Taking Inventory]
+[16:22:53] [Client thread/INFO]: [CHAT] CosmoCraft:copper_ore, CosmoCraft:copper_ingot, CosmoCraft:lead_ingot, CosmoCraft:lead_ore, CosmoCraft:wrench, CosmoCraft:furnace
+[16:22:54] [Client thread/INFO]: [CHAT] CosmoCraft:copper_ore, CosmoCraft:copper_ingot, CosmoCraft:lead_ingot, CosmoCraft:lead_ore, CosmoCraft:wrench, CosmoCraft:furnace
+[16:22:56] [Server thread/INFO]: [Player534: Given [item.cosmocraft:copper_ingot.name] * 64 to Player534]
+[16:22:56] [Client thread/INFO]: [CHAT] Given [item.cosmocraft:copper_ingot.name] * 64 to Player534
+[16:23:39] [Client thread/INFO]: [CHAT] CosmoCraft:lead_ingot, CosmoCraft:lead_ore
+[16:23:43] [Server thread/INFO]: [Player534: Given [item.cosmocraft:lead_ingot.name] * 32 to Player534]
+[16:23:43] [Client thread/INFO]: [CHAT] Given [item.cosmocraft:lead_ingot.name] * 32 to Player534
+[16:23:58] [Server thread/INFO]: Saving and pausing game...
+[16:23:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:23:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:23:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:23:59] [Server thread/INFO]: Stopping server
+[16:23:59] [Server thread/INFO]: Saving players
+[16:23:59] [Server thread/INFO]: Saving worlds
+[16:23:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:23:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:23:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:24:01] [Client thread/INFO]: Stopping!

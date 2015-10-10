@@ -1,0 +1,12 @@
+package com.doraro.cosmocraft.items;
+
+public class ItemNames {
+//Item Names
+	public static final String ItemNameWrench = "wrench";
+	public static final String ItemNameLeadIngot = "lead_ingot";
+	public static final String ItemNameLeadIngot = "copper_ingot";
+//Block Names
+	public static final String BlockNameFurnace = "furnace";
+	public static final String BlockNameLeadOre = "lead_ore";
+	public static final String BlockNameLeadOre = "copper_ore";
+}

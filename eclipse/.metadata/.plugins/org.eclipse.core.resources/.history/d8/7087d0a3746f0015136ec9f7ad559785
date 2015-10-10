@@ -1,0 +1,18 @@
+package com.doraro.cosmocraft.init;
+
+import com.doraro.cosmocraft.Blocks.BlockCosmoCraft;
+import com.doraro.cosmocraft.Blocks.BlockFurnace;
+import com.doraro.cosmocraft.items.ItemNames;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModBlock {
+	
+	public static final BlockCosmoCraft furnace = new BlockFurnace();
+	
+	//register blocks
+	public static void init(){
+		GameRegistry.registerBlock(furnace, ItemNames.BlockNameFurnace);
+	}
+
+}

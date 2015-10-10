@@ -4,6 +4,7 @@ import com.doraro.cosmocraft.Reference.Reference;
 import com.doraro.cosmocraft.Utility.LogHelper;
 import com.doraro.cosmocraft.client.gui.GuiFactory;
 import com.doraro.cosmocraft.handlers.ConfigurationHandler;
+import com.doraro.cosmocraft.init.ModBlock;
 import com.doraro.cosmocraft.init.ModItems;
 import com.doraro.cosmocraft.proxy.IProxy;
 
@@ -32,8 +33,11 @@ public class CosmoCraft {
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 		LogHelper.info("Pre Initialization Compleat!");
+		//Initialize items
 		ModItems.init();
 		
+		//Initialize Blocks
+		ModBlock.init();
 	}
 	
 	//handle for Initialization phase
